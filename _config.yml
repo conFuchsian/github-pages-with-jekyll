@@ -2,10 +2,10 @@ title: Learning Git and GitHub
 author: conFuchsian
 email: fuschia_sage@protonmail.com
 theme: minima
-description: “Yesterday is gone. Tomorrow has not yet come. We have only today. Let us begin.” > Mother Theresa
+description: “Even if you fall on your face you’re still moving forward.”
 
 # social links
 twitter_username: Twitter # DO NOT include the @ character, or else the build will fail!
 github_username: conFuchsian # DO NOT include the @ character, or else the build will fail!
 
-show_excerpts: true # set to false to remove excerpts on the homepage
+show_excerpts: false # set to false to remove excerpts on the homepage
